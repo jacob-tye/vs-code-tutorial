@@ -8,4 +8,4 @@ For more information see the [official documentation](https://code.visualstudio.
 
 ----
 
-#### [Home](tutorial.md)
+#### [Home](readme.md)

@@ -93,4 +93,4 @@ Extensions are an important part of using vscode. They allow you to have a light
 
 ----
 
-#### [Home](tutorial.md)
+#### [Home](readme.md)

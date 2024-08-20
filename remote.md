@@ -52,4 +52,4 @@ Using SSH while coding is very common. In the lab, we will use it most often to 
 
 ----
 
-#### [Home](tutorial.md)
+#### [Home](readme.md)

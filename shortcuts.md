@@ -26,4 +26,4 @@ You can customize your shortcuts by opening the shortcuts menu and clicking edit
 
 ----
 
-#### [Home](tutorial.md)
+#### [Home](readme.md)

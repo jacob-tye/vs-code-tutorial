@@ -67,4 +67,4 @@ When the debugger is running, a panel on the left opens that shows the current v
 
 ----
 
-#### [Home](tutorial.md)
+#### [Home](readme.md)
