@@ -10,5 +10,4 @@
 
 ## [Debugging](debugging.md)
 
-## [A Short Example](example.md)
 
