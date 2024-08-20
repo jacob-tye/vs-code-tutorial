@@ -5,3 +5,7 @@ A workspace in vs code is the collection of folders that you are editing. By def
 A workspace allows you to choose what folders to open when working on a project and what settings to apply to that project.
 
 For more information see the [official documentation](https://code.visualstudio.com/docs/editor/workspaces)
+
+----
+
+#### [Home](tutorial.md)

@@ -23,3 +23,7 @@ This shortcut opens the file explorer and lets you type any file name to open th
 
 You can customize your shortcuts by opening the shortcuts menu and clicking edit on any command, then typing the keys you want to bind to that action
 ![customize_shortcuts](images/customize_shortcuts.png)
+
+----
+
+#### [Home](tutorial.md)

@@ -65,3 +65,6 @@ When the debugger is running, a panel on the left opens that shows the current v
 
 ![debug-panel](images/debug-panel.png)
 
+----
+
+#### [Home](tutorial.md)
