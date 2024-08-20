@@ -14,7 +14,7 @@ Extensions are an important part of using vscode. They allow you to have a light
 
 3. Download the suggestions by hiting ctrl-shift-p (cmd-shift-p on mac) and typing 'Extensions: Show Recommended Extensions' and clicking the download button
 
-![Recommended Extensions](<recommended_extensions.png>)
+![Recommended Extensions](<images/recommended_extensions.png>)
 
 ## [Remote conntections](remote.md)
 
