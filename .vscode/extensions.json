@@ -23,16 +23,16 @@
         "grapecity.gc-excelviewer",
         "eamodio.gitlens",
         // Suggested
-        "ms-vscode.atom-keybindings",
         "ms-vscode-remote.remote-wsl",
         "ms-toolsai.vscode-jupyter-powertoys",
         "ms-toolsai.vscode-jupyter-slideshow",
         "mechatroner.rainbow-csv",
-        "vscodevim.vim",
         "tomoki1207.pdf",
         "kisstkondoros.vscode-gutter-preview",
         "george-alisson.html-preview-vscode",
         // Helpful
+        // "ms-vscode.atom-keybindings",
+        // "vscodevim.vim",
         // "gitpod.gitpod-desktop",
         // "gitpod.gitpod-remote-ssh",
         // "ms-vscode-remote.remote-containers",

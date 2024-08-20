@@ -72,16 +72,16 @@ Extensions are an important part of using vscode. They allow you to have a light
 - [Jupyter PowerToys](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)
 - [Jupyter Slide Show](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)
 
-### Key bindings
-
-- [Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
-- [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
-
 ### WSL
 
 - [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 
 ## Helpful extensions
+
+### Key bindings
+
+- [Atom Keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
+- [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
 ### Docker
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
