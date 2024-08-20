@@ -1,4 +1,16 @@
-# Recommended extensions
+# Extensions
+Extensions are an important part of using vscode. They allow you to have a light weight IDE that is still super powerful.
+
+## Set up
+1. Copy [extensions.json](.vscode/extensions.json) to the folder .vscode in the folder you will be coding in (create the folder if nessecary)
+
+2. Go through [extensions.json](.vscode/extensions.json) and choose the extensions that you want
+
+3. Download the suggestions by hiting ctrl-shift-p (cmd-shift-p on mac) and typing 'Extensions: Show Recommended Extensions' and clicking the download button
+
+![Recommended Extensions](<images/recommended_extensions.png>)
+
+## Recommended extensions
 
 ### SSH
 
@@ -9,8 +21,8 @@
 ### Github
 
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-- [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - ([More info](extensions_info/copilot.md))
-- [Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - ([More info](extensions_info/copilot.md))
+- [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
+- [Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ### Python
@@ -31,6 +43,7 @@
 ### R
 
 - [R](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r)
+- [R Debugger](https://marketplace.visualstudio.com/items?itemName=RDebugger.r-debugger)
 
 ### Conda/Mamba
 
@@ -39,7 +52,10 @@
 ### Data Viewers
 
 - [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
+[Example file](example_files/data-viewer-example.ipynb )
 - [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
+[Example file](example_files/example.csv )
+
 
 
 ## Suggested extensions
@@ -77,4 +93,4 @@
 
 ----
 
-# [Home](tutorial.md)
+#### [Home](tutorial.md)
