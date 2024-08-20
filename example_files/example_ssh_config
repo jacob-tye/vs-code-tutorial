@@ -1,0 +1,8 @@
+Host notchpeak30
+    HostName notchpeak30.chpc.utah.edu
+    User u0914269
+
+Host gpu_notch001
+    HostName notch001
+    User u0914269
+    ProxyJump notchpeak30 
