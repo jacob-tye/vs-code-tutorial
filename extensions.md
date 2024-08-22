@@ -63,7 +63,7 @@ Extensions are an important part of using vscode. They allow you to have a light
 - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - [Example file](example_files/example.csv )
 - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
-- [HTML Preview](https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode)
+- [Live Preview - HTML viewer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 
 ### Jupyter Notebook
 
