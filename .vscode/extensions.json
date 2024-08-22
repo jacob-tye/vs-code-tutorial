@@ -22,6 +22,7 @@
         "ms-toolsai.jupyter-renderers",
         "grapecity.gc-excelviewer",
         "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
         // Suggested
         "ms-vscode-remote.remote-wsl",
         "ms-toolsai.vscode-jupyter-powertoys",
@@ -37,5 +38,6 @@
         // "gitpod.gitpod-remote-ssh",
         // "ms-vscode-remote.remote-containers",
         // "ms-azuretools.vscode-docker",
+        // "ms-vsliveshare.vsliveshare",
     ]
 }

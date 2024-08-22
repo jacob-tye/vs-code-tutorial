@@ -22,7 +22,7 @@ Extensions are an important part of using vscode. They allow you to have a light
 
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
-- [Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - [Example File](example_files/co-pilot-example.ipynb)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ### Python
@@ -51,10 +51,8 @@ Extensions are an important part of using vscode. They allow you to have a light
 
 ### Data Viewers
 
-- [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
-[Example file](example_files/data-viewer-example.ipynb )
-- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
-[Example file](example_files/example.csv )
+- [Data Wrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) - [Example file](example_files/data-viewer-example.ipynb )
+- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) - [Example file](example_files/example.xlsx )
 
 
 
@@ -62,7 +60,7 @@ Extensions are an important part of using vscode. They allow you to have a light
 
 ### Data Viewers
 
-- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - [Example file](example_files/example.csv )
 - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 - [HTML Preview](https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode)
@@ -91,6 +89,8 @@ Extensions are an important part of using vscode. They allow you to have a light
 - [Gitpod](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-desktop)
 - [Gitpod Remote](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-remote-ssh)
 
+### Pair Programming
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 ----
 
 #### [Home](readme.md)
