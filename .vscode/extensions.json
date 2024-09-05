@@ -23,6 +23,7 @@
         "grapecity.gc-excelviewer",
         "eamodio.gitlens",
         "streetsidesoftware.code-spell-checker",
+        "ms-python.isort",
         // Suggested
         "ms-vscode-remote.remote-wsl",
         "ms-toolsai.vscode-jupyter-powertoys",

@@ -31,6 +31,7 @@ Extensions are an important part of using vscode. They allow you to have a light
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
+- [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)
 
 ### Jupyter Notebook
 
